@@ -24,7 +24,9 @@ Se puede adaptar a otras tiendas online fácilmente.
 El script genera un archivo sephora.xlsx con toda la información lista para trabajar en Excel.
 
 📸 Ejemplo:
-<img width="1349" height="676" alt="Captura de pantalla 2025-09-17 195503" src="https://github.com/user-attachments/assets/cac851d4-1048-4e0e-822d-076a61f751c8" />
+<img width="1364" height="535" alt="image" src="https://github.com/user-attachments/assets/f74bf787-1c37-48c0-bc72-9708d20ba628" />
+
+
 
 
 
