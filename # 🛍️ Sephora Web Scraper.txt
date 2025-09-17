@@ -1,0 +1,26 @@
+# 🛍️ Sephora Web Scraper
+
+Este proyecto extrae información de productos de **Sephora** utilizando `Selenium WebDriver`.  
+El script automatiza la navegación, realiza scroll dinámico, cierra popups molestos y extrae datos clave como:
+
+- Marca
+- Nombre del producto
+- Variaciones (shades)
+- Precio
+- Tamaño
+- Rating y número de reseñas
+- Imagen del producto (descargada en formato `.jpg`)
+
+Los datos se guardan en un archivo **CSV** y las imágenes en la carpeta `imagenes/`.
+
+---
+
+## 🚀 Tecnologías usadas
+- [Python 3](https://www.python.org/)  
+- [Selenium](https://www.selenium.dev/)  
+- [Requests](https://pypi.org/project/requests/)  
+- [Pillow (PIL)](https://pillow.readthedocs.io/)  
+
+---
+
+## 📂 Estructura del proyecto
